@@ -55,9 +55,9 @@ Begin by cloning this repository to your local machine:
 
 ```bash
 git clone https://github.com/username/inventory-management.git
+```
 
-
-### Step 2: Create a Virtual Environment
+### Step 1: Create a Virtual Environment
 
 It is recommended to create a virtual environment to manage dependencies:
 
