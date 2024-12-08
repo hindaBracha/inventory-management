@@ -54,7 +54,7 @@ To run the Inventory Management System on your local machine, you’ll need to h
 Begin by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/username/inventory-management.git
+git clone https://github.com/hindaBracha/inventory-management.git
 ```
 
 ### Step 1: Create a Virtual Environment
