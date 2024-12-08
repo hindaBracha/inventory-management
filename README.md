@@ -1,4 +1,3 @@
-```markdown
 # Inventory Management System
 
 A robust and efficient Inventory Management System built with Django and Python. This system allows businesses and individuals to manage their inventory with ease, offering features to add, update, and remove items from stock. The project utilizes a relational database to maintain the integrity of inventory data and provides an intuitive API for seamless integration.
@@ -56,7 +55,7 @@ Begin by cloning this repository to your local machine:
 
 ```bash
 git clone https://github.com/username/inventory-management.git
-```
+
 
 ### Step 2: Create a Virtual Environment
 
