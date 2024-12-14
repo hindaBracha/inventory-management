@@ -64,12 +64,12 @@
 </head>
 <body>
     <div class="container">
-        <h1>Add Product</h1>
+        <h1>Add Category</h1>
         <form method="post">
             {% csrf_token %}
             {{ form.as_p }}
 
-            <button type="submit" class="btn btn-primary">add product</button>
+            <button type="submit" class="btn btn-primary">add category</button>
         </form>
         <a href="/" class="back-button">⬅ Back to Home</a>
     </div>
